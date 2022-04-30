@@ -1,0 +1,27 @@
+{
+  "name": "templatereactproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liscody/templateReactProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liscody/templateReactProject/issues"
+  },
+  "homepage": "https://github.com/liscody/templateReactProject#readme",
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "semantic-ui-react": "^2.1.2"
+  }
+}
